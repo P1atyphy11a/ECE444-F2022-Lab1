@@ -12,3 +12,7 @@ Colaborate Member Repo Link: https://github.com/davidYichengWei/ECE444-F2022-Lab
 ![Screenshot 2022-09-19 194128](https://user-images.githubusercontent.com/37389868/191137714-cafdd346-0461-4032-9bdf-91747649b83f.png)
 ## Activity 5
 ![Screenshot 2022-09-20 133259](https://user-images.githubusercontent.com/37389868/191325832-258491be-04b2-42d5-beda-6b9827302bc5.png)
+## Activity 6
+EP Repo URL: https://github.com/P1atyphy11a/ECE444-F2022-EP
+![Screenshot 2022-09-20 141801](https://user-images.githubusercontent.com/37389868/191334307-fca1e75b-79b4-4071-8669-aedfd2f32785.png)
+![Screenshot 2022-09-20 141812](https://user-images.githubusercontent.com/37389868/191334314-fd5f4d7e-da4d-40de-9357-7eb07e935837.png)
